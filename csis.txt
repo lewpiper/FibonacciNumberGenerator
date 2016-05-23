@@ -1,0 +1,16 @@
+Enter a number into the Fibonacci Generator: -199
+Invalid user input, enter a positive number
+
+Enter a number into the Fibonacci Generator: 78
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+Length of the sequence: 11
